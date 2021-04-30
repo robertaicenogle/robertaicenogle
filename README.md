@@ -4,7 +4,7 @@
 
 ### Excel, VBA, Python, SQL, 
 
-![](cartoon1.png)
+![](cartoon12.png)
 
 - 👋 Hi, I’m @robertaicenogle
 - 👀 I’m interested in ... data analysis
