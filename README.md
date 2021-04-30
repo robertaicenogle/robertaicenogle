@@ -1,7 +1,5 @@
 # Robert Icenogle, MBA, MPH
-
-## Data Analysis & Visualization
-
+## UT Austin Cdrtification in Data Analysis & Visualization
 ### Excel, VBA, Python, SQL, 
 
 ![](cartoon12.png)
