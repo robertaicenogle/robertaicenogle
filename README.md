@@ -1,4 +1,4 @@
-# Robert Icenogle, MBA, MPH, EMT
+# Robert Icenogle, MBA, MPH
 
 ## Data Analysis & Visualization
 
