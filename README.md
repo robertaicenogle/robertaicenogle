@@ -1,6 +1,6 @@
 # Robert Icenogle, MBA, MPH
 
-- Hi, I’m @robertaicenogle
+- Hi, I’m Robert Icenogle
 - Epidemiologist on SAMHD COVID-19 Response Team
-- Data Analysis and Visualization Certification at UT Austin
+- Certified in Data Analysis and Visualization at UT Austin
 - Python, R, Excel, SQL, Tableau
